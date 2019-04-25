@@ -1,6 +1,6 @@
 ## Picnic Hackathon
 
-This project is inspired by Tensorflow's [tutorial](https://www.tensorflow.org/hub/tutorials/image_retraining) on Transfer learning and applied to [Picnic's dataset](https://picnic.devpost.com/)
+This project is inspired by Tensorflow's [tutorial](https://www.tensorflow.org/hub/tutorials/image_retraining) on Transfer learning and is applied to [Picnic's dataset](https://picnic.devpost.com/)
 
 ## How to Run?
 
